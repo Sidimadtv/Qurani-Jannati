@@ -5,14 +5,14 @@
       "id": "makkah_quran",
       "location": "makkah",
       "name": "Al-Quran Al-Kareem (Makkah)",
-      "primaryUrl": "https://aloula-redirect.vercel.app/7/playlist.m3u8",
+      "primaryUrl": "http://m.live.net.sa:1935/live/quran/playlist.m3u8",
       "fallbackUrl": "http://m.live.net.sa:1935/live/quran/playlist.m3u8"
     },
     {
       "id": "madinah_sunnah",
       "location": "madinah",
       "name": "As-Sunnah (Madinah)",
-      "primaryUrl": "https://aloula-redirect.vercel.app/6/playlist.m3u8",
+      "primaryUrl": "http://m.live.net.sa:1935/live/sunnah/playlist.m3u8",
       "fallbackUrl": "http://m.live.net.sa:1935/live/sunnah/playlist.m3u8"
     }
   ]
