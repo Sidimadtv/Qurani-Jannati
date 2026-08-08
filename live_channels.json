@@ -8,6 +8,64 @@
       "primaryUrl": "http://m.live.net.sa:1935/live/quran/playlist.m3u8",
       "fallbackUrl": "http://m.live.net.sa:1935/live/quran/playlist.m3u8"
     },
+     {
+      "id": "makkah_quran",
+      "location": "makkah",
+      "name": "Al-Quran Al-Kareem (Makkah)",
+      "primaryUrl": "http://m.live.net.sa:1935/live/quran/playlist.m3u8",
+      "fallbackUrl": "http://m.live.net.sa:1935/live/quran/playlist.m3u8"
+    },
+    
+      {
+      "id": "makkah_quran",
+      "location": "makkah",
+      "name": "Al-Quran Al-Kareem (Makkah)",
+      "primaryUrl": "http://m.live.net.sa:1935/live/quran/playlist.m3u8",
+      "fallbackUrl": "http://m.live.net.sa:1935/live/quran/playlist.m3u8"
+    },
+    
+      {
+      "id": "makkah_quran",
+      "location": "makkah",
+      "name": "Al-Quran Al-Kareem (Makkah)",
+      "primaryUrl": "http://m.live.net.sa:1935/live/quran/playlist.m3u8",
+      "fallbackUrl": "http://m.live.net.sa:1935/live/quran/playlist.m3u8"
+    },
+    
+    
+      {
+      "id": "makkah_quran",
+      "location": "makkah",
+      "name": "Al-Quran Al-Kareem (Makkah)",
+      "primaryUrl": "http://m.live.net.sa:1935/live/quran/playlist.m3u8",
+      "fallbackUrl": "http://m.live.net.sa:1935/live/quran/playlist.m3u8"
+    },
+  {
+      "id": "makkah_quran",
+      "location": "makkah",
+      "name": "Al-Quran Al-Kareem (Makkah)",
+      "primaryUrl": "http://m.live.net.sa:1935/live/quran/playlist.m3u8",
+      "fallbackUrl": "http://m.live.net.sa:1935/live/quran/playlist.m3u8"
+    },
+
+
+  {
+      "id": "makkah_quran",
+      "location": "makkah",
+      "name": "Al-Quran Al-Kareem (Makkah)",
+      "primaryUrl": "http://m.live.net.sa:1935/live/quran/playlist.m3u8",
+      "fallbackUrl": "http://m.live.net.sa:1935/live/quran/playlist.m3u8"
+    },
+
+
+
+
+
+
+
+
+
+    
     {
       "id": "madinah_sunnah",
       "location": "madinah",
