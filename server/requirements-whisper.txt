@@ -1,3 +1,0 @@
-# Optional: enables the open-source speech-to-text engine.
-# Model weights are downloaded on first run (see QURANI_JANNATI_WHISPER_MODEL).
-faster-whisper>=1.0.3
