@@ -352,7 +352,7 @@
       "description": "قصص الأنبياء والمرسلين عليهم السلام",
       "source": "archive",
       "identifier": "sidimadtvkisas-al-anbiyae",
-      "poster": "https://archive.org/services/img/sidimadtvkisas-al-anbiyae",
+      "poster": "https://cdn.jsdelivr.net/gh/Sidimadtv/mydata-audio@main/pic/kisas.jpg",
       "episodes": [
         {"title": "قصة آدم عليه السلام", "file": "قصة آدم عليه السلام.mp3"},
         {"title": "قصة أيوب عليه السلام", "file": "قصة أيوب عليه السلام.mp3"},
@@ -382,7 +382,7 @@
       "description": "السيرة النبوية للنبي محمد صلى الله عليه وسلم",
       "source": "archive",
       "identifier": "Sidimadtv_Seerah",
-      "poster": "https://archive.org/services/img/Sidimadtv_Seerah",
+      "poster": "https://cdn.jsdelivr.net/gh/Sidimadtv/mydata-audio@main/pic/seerah.png",
       "episodes": [
         {"title": "Episode 1", "file": "seera01.mp3"},
         {"title": "Episode 2", "file": "seera02.mp3"},
