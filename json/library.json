@@ -9,7 +9,7 @@
       "source": "github",
       "repo": "Sidimadtv/mydata-audio",
       "folder": "Al-Farouk",
-      "poster": "https://cdn.jsdelivr.net/gh/Sidimadtv/mydata-audio@main/Al-Farouk/poster.jpg",
+      "poster": "https://cdn.jsdelivr.net/gh/Sidimadtv/mydata-audio@main/pic/omar.jpg",
       "episodes": [
         {"title": "Episode 1", "file": "2 (1).mp3"},
         {"title": "Episode 2", "file": "2 (2).mp3"},
@@ -263,7 +263,7 @@
       "source": "github",
       "repo": "Sidimadtv/Qurani-Jannati",
       "folder": "40-nawawiya",
-      "poster": "https://cdn.jsdelivr.net/gh/Sidimadtv/Qurani-Jannati@main/40-nawawiya/poster.jpg",
+      "poster": "https://cdn.jsdelivr.net/gh/Sidimadtv/mydata-audio@main/pic/naw.jpg",
       "episodes": [
         {"title": "Episode 1", "file": "audio_1.mp3"},
         {"title": "Episode 2", "file": "audio_2.mp3"},
@@ -316,7 +316,7 @@
       "description": "خطبة يوم المعاد - الموت والقبر والحساب",
       "source": "archive",
       "identifier": "Sidimadtv-Yawmalmiaad",
-      "poster": "https://archive.org/services/img/Sidimadtv-Yawmalmiaad",
+      "poster": "https://cdn.jsdelivr.net/gh/Sidimadtv/mydata-audio@main/pic/miad.jpg",
       "episodes": [
         {"title": "الموت وسكراته", "file": "01_2.mp3"},
         {"title": "عذاب القبر ونعيمه", "file": "02_2.mp3"},
