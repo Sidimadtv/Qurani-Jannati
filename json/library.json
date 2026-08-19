@@ -1,458 +1,1245 @@
 {
-  "version": 1,
-  "audio_series": [
-    {
-      "id": "al-farouk",
-      "title": "Al-Farouk",
-      "titleAr": "الفاروق",
-      "description": "جليم عن حياة الخلفاء الراشدين",
-      "source": "github",
-      "repo": "Sidimadtv/mydata-audio",
-      "folder": "Al-Farouk",
-      "poster": "https://cdn.jsdelivr.net/gh/Sidimadtv/mydata-audio@main/pic/omar.jpg",
-      "episodes": [
-        {"title": "Episode 1", "file": "2 (1).mp3"},
-        {"title": "Episode 2", "file": "2 (2).mp3"},
-        {"title": "Episode 3", "file": "2 (3).mp3"},
-        {"title": "Episode 4", "file": "2 (4).mp3"},
-        {"title": "Episode 5", "file": "2 (5).mp3"},
-        {"title": "Episode 6", "file": "2 (6).mp3"},
-        {"title": "Episode 7", "file": "2 (7).mp3"},
-        {"title": "Episode 8", "file": "2 (8).mp3"},
-        {"title": "Episode 9", "file": "2 (9).mp3"},
-        {"title": "Episode 10", "file": "2 (10).mp3"},
-        {"title": "Episode 11", "file": "2 (11).mp3"},
-        {"title": "Episode 12", "file": "2 (12).mp3"},
-        {"title": "Episode 13", "file": "2 (13).mp3"},
-        {"title": "Episode 14", "file": "2 (14).mp3"},
-        {"title": "Episode 15", "file": "2 (15).mp3"},
-        {"title": "Episode 16", "file": "2 (16).mp3"},
-        {"title": "Episode 17", "file": "2 (17).mp3"},
-        {"title": "Episode 18", "file": "2 (18).mp3"},
-        {"title": "Episode 19", "file": "2 (19).mp3"},
-        {"title": "Episode 20", "file": "2 (20).mp3"},
-        {"title": "Episode 21", "file": "2 (21).mp3"},
-        {"title": "Episode 22", "file": "2 (22).mp3"},
-        {"title": "Episode 23", "file": "2 (23).mp3"},
-        {"title": "Episode 24", "file": "2 (24).mp3"},
-        {"title": "Episode 25", "file": "2 (25).mp3"},
-        {"title": "Episode 26", "file": "2 (26).mp3"},
-        {"title": "Episode 27", "file": "2 (27).mp3"},
-        {"title": "Episode 28", "file": "2 (28).mp3"},
-        {"title": "Episode 29", "file": "2 (29).mp3"},
-        {"title": "Episode 30", "file": "2 (30).mp3"}
-      ]
-    },
-    {
-      "id": "fadael",
-      "title": "Fadael",
-      "titleAr": "فضائل",
-      "description": "فضائل وأخلاق إسلامية",
-      "source": "github",
-      "repo": "Sidimadtv/mydata-audio",
-      "folder": "Fadael",
-      "poster": "https://cdn.jsdelivr.net/gh/Sidimadtv/mydata-audio@main/Fadael/poster.jpg",
-      "episodes": [
-        {"title": "Episode 1", "file": "01.mp3"},
-        {"title": "Episode 2", "file": "02.mp3"},
-        {"title": "Episode 3", "file": "03.mp3"},
-        {"title": "Episode 4", "file": "04.mp3"},
-        {"title": "Episode 5", "file": "05.mp3"},
-        {"title": "Episode 6", "file": "06.mp3"},
-        {"title": "Episode 7", "file": "07.mp3"},
-        {"title": "Episode 8", "file": "08.mp3"},
-        {"title": "Episode 9", "file": "09.mp3"},
-        {"title": "Episode 10", "file": "10.mp3"},
-        {"title": "Episode 11", "file": "11.mp3"},
-        {"title": "Episode 12", "file": "12.mp3"},
-        {"title": "Episode 13", "file": "13.mp3"},
-        {"title": "Episode 14", "file": "14.mp3"},
-        {"title": "Episode 15", "file": "15.mp3"},
-        {"title": "Episode 16", "file": "16.mp3"},
-        {"title": "Episode 17", "file": "17.mp3"},
-        {"title": "Episode 18", "file": "18.mp3"},
-        {"title": "Episode 19", "file": "19.mp3"},
-        {"title": "Episode 20", "file": "20.mp3"}
-      ]
-    },
-    {
-      "id": "mashahid",
-      "title": "Mashahid",
-      "titleAr": "مشاهد",
-      "description": "مشاهد من حياة المسلم",
-      "source": "github",
-      "repo": "Sidimadtv/mydata-audio",
-      "folder": "Mashahid",
-      "poster": "https://cdn.jsdelivr.net/gh/Sidimadtv/mydata-audio@main/Mashahid/poster.jpg",
-      "episodes": [
-        {"title": "Episode 1", "file": "Mashahid_3_01.mp3"},
-        {"title": "Episode 2", "file": "Mashahid_3_02.mp3"},
-        {"title": "Episode 3", "file": "Mashahid_3_03.mp3"},
-        {"title": "Episode 4", "file": "Mashahid_3_04.mp3"},
-        {"title": "Episode 5", "file": "Mashahid_3_05.mp3"},
-        {"title": "Episode 6", "file": "Mashahid_3_06.mp3"},
-        {"title": "Episode 7", "file": "Mashahid_3_07.mp3"},
-        {"title": "Episode 8", "file": "Mashahid_3_08.mp3"},
-        {"title": "Episode 9", "file": "Mashahid_3_09.mp3"},
-        {"title": "Episode 10", "file": "Mashahid_3_10.mp3"},
-        {"title": "Episode 11", "file": "Mashahid_3_11.mp3"},
-        {"title": "Episode 12", "file": "Mashahid_3_12.mp3"},
-        {"title": "Episode 13", "file": "Mashahid_3_13.mp3"},
-        {"title": "Episode 14", "file": "Mashahid_3_14.mp3"},
-        {"title": "Episode 15", "file": "Mashahid_3_15.mp3"},
-        {"title": "Episode 16", "file": "Mashahid_3_16.mp3"},
-        {"title": "Episode 17", "file": "Mashahid_3_17.mp3"},
-        {"title": "Episode 18", "file": "Mashahid_3_18.mp3"},
-        {"title": "Episode 19", "file": "Mashahid_3_19.mp3"},
-        {"title": "Episode 20", "file": "Mashahid_3_20.mp3"},
-        {"title": "Episode 21", "file": "Mashahid_3_21.mp3"},
-        {"title": "Episode 22", "file": "Mashahid_3_22.mp3"},
-        {"title": "Episode 23", "file": "Mashahid_3_23.mp3"},
-        {"title": "Episode 24", "file": "Mashahid_3_24.mp3"},
-        {"title": "Episode 25", "file": "Mashahid_3_25.mp3"},
-        {"title": "Episode 26", "file": "Mashahid_3_26.mp3"},
-        {"title": "Episode 27", "file": "Mashahid_3_27.mp3"},
-        {"title": "Episode 28", "file": "Mashahid_3_28.mp3"},
-        {"title": "Episode 29", "file": "Mashahid_3_29.mp3"},
-        {"title": "Episode 30", "file": "Mashahid_3_30.mp3"}
-      ]
-    },
-    {
-      "id": "tariq-ila-ljanna",
-      "title": "Tariq ila Ljanna",
-      "titleAr": "طريق إلى الجنة",
-      "description": "طريق النجاة والفوز بالجنة",
-      "source": "github",
-      "repo": "Sidimadtv/mydata-audio",
-      "folder": "Tariq-ila-Ljanna",
-      "poster": "https://cdn.jsdelivr.net/gh/Sidimadtv/mydata-audio@main/Tariq-ila-Ljanna/poster.jpg",
-      "episodes": [
-        {"title": "Episode 1", "file": "001.mp3"},
-        {"title": "Episode 2", "file": "002.mp3"},
-        {"title": "Episode 3", "file": "003.mp3"},
-        {"title": "Episode 4", "file": "004.mp3"},
-        {"title": "Episode 5", "file": "005.mp3"},
-        {"title": "Episode 6", "file": "006.mp3"},
-        {"title": "Episode 7", "file": "007.mp3"},
-        {"title": "Episode 8", "file": "008.mp3"},
-        {"title": "Episode 9", "file": "009.mp3"},
-        {"title": "Episode 10", "file": "010.mp3"},
-        {"title": "Episode 11", "file": "011.mp3"},
-        {"title": "Episode 12", "file": "012.mp3"},
-        {"title": "Episode 13", "file": "013.mp3"},
-        {"title": "Episode 14", "file": "014.mp3"},
-        {"title": "Episode 15", "file": "015.mp3"},
-        {"title": "Episode 16", "file": "016.mp3"},
-        {"title": "Episode 17", "file": "017.mp3"},
-        {"title": "Episode 18", "file": "018.mp3"},
-        {"title": "Episode 19", "file": "019.mp3"},
-        {"title": "Episode 20", "file": "020.mp3"},
-        {"title": "Episode 21", "file": "021.mp3"},
-        {"title": "Episode 22", "file": "022.mp3"},
-        {"title": "Episode 23", "file": "023.mp3"},
-        {"title": "Episode 24", "file": "024.mp3"},
-        {"title": "Episode 25", "file": "025.mp3"},
-        {"title": "Episode 26", "file": "026.mp3"},
-        {"title": "Episode 27", "file": "027.mp3"},
-        {"title": "Episode 28", "file": "028.mp3"},
-        {"title": "Episode 29", "file": "029.mp3"},
-        {"title": "Episode 30", "file": "030.mp3"}
-      ]
-    },
-    {
-      "id": "kholafa-rashedon",
-      "title": "Kholafa Rashedon",
-      "titleAr": "الخلفاء الراشدون",
-      "description": "سيرة الخلفاء الراشدين الأربعة",
-      "source": "github",
-      "repo": "Sidimadtv/mydata-audio",
-      "folder": "kholafa-rashedon",
-      "poster": "https://cdn.jsdelivr.net/gh/Sidimadtv/mydata-audio@main/kholafa-rashedon/poster.jpg",
-      "episodes": [
-        {"title": "Episode 1", "file": "1.mp3"},
-        {"title": "Episode 2", "file": "2.mp3"},
-        {"title": "Episode 3", "file": "3.mp3"},
-        {"title": "Episode 4", "file": "4.mp3"}
-      ]
-    },
-    {
-      "id": "shakhsyat-3ibar",
-      "title": "Shakhsyat 3ibar",
-      "titleAr": "شخصيات عبرة",
-      "description": "شخصيات من التاريخ الإسلامي عبرة وعبرى",
-      "source": "github",
-      "repo": "Sidimadtv/mydata-audio",
-      "folder": "shakhsyat-3ibar",
-      "poster": "https://cdn.jsdelivr.net/gh/Sidimadtv/mydata-audio@main/shakhsyat-3ibar/poster.jpg",
-      "episodes": [
-        {"title": "Episode 1", "file": "01.mp3"},
-        {"title": "Episode 2", "file": "02.mp3"},
-        {"title": "Episode 3", "file": "03.mp3"},
-        {"title": "Episode 4", "file": "04.mp3"},
-        {"title": "Episode 5", "file": "05.mp3"},
-        {"title": "Episode 6", "file": "06.mp3"},
-        {"title": "Episode 7", "file": "07.mp3"},
-        {"title": "Episode 8", "file": "08.mp3"},
-        {"title": "Episode 9", "file": "09.mp3"},
-        {"title": "Episode 10", "file": "10.mp3"},
-        {"title": "Episode 11", "file": "11.mp3"},
-        {"title": "Episode 12", "file": "12.mp3"},
-        {"title": "Episode 13", "file": "13.mp3"},
-        {"title": "Episode 14", "file": "14.mp3"},
-        {"title": "Episode 15", "file": "15.mp3"},
-        {"title": "Episode 16", "file": "16.mp3"},
-        {"title": "Episode 17", "file": "17.mp3"},
-        {"title": "Episode 18", "file": "18.mp3"},
-        {"title": "Episode 19", "file": "19.mp3"},
-        {"title": "Episode 20", "file": "20.mp3"},
-        {"title": "Episode 21", "file": "21.mp3"},
-        {"title": "Episode 22", "file": "22.mp3"},
-        {"title": "Episode 23", "file": "23.mp3"},
-        {"title": "Episode 24", "file": "24.mp3"},
-        {"title": "Episode 25", "file": "25.mp3"},
-        {"title": "Episode 26", "file": "26.mp3"},
-        {"title": "Episode 27", "file": "27.mp3"},
-        {"title": "Episode 28", "file": "28.mp3"},
-        {"title": "Episode 29", "file": "29.mp3"},
-        {"title": "Episode 30", "file": "30.mp3"}
-      ]
-    },
-    {
-      "id": "mawsoaa",
-      "title": "Mawsoaa",
-      "titleAr": "المؤلفات",
-      "description": "مجموعة من المواعظ والإرشادات الإسلامية",
-      "source": "github",
-      "repo": "Sidimadtv/Smart",
-      "folder": "Mawsoaa",
-      "poster": "https://cdn.jsdelivr.net/gh/Sidimadtv/Smart@main/Mawsoaa/poster.jpg",
-      "episodes": [
-        {"title": "60 عام على النكبة", "file": "60 عام على النكبة (Up-By-Muslem-مسلم).mp3"},
-        {"title": "alloiloitokythfzonfsha", "file": "alloiloitokythfzonfsha.mp3"},
-        {"title": "elamnhgbhoaldbab", "file": "elamnhgbhoaldbab.mp3"},
-        {"title": "أحسنكم خلقا", "file": "أحسنكم خلقا (Up-By-Muslem-مسلم).mp3"},
-        {"title": "أعظم العلوم", "file": "أعظم العلوم (Up-By-Muslem-مسلم).mp3"},
-        {"title": "أعظم رحلة", "file": "أعظم رحلة (Up-By-Muslem-مسلم).mp3"},
-        {"title": "أمسك عليك لسانك", "file": "أمسك عليك لسانك (Up-By-Muslem-مسلم).mp3"},
-        {"title": "أمن يجيب المضطر إذا دعاه", "file": "أمن يجيب المضطر إذا دعاه (Up-By-Muslem-مسلم).mp3"},
-        {"title": "إحذر الصغائر", "file": "إحذر الصغائر (Up-By-Muslem-مسلم).mp3"},
-        {"title": "إذا اشتدت الأزمات تميز الناس", "file": "إذا اشتدت الأزمات تميز الناس (Up-By-Muslem-مسلم).mp3"},
-        {"title": "إرم", "file": "إرم (Up-By-Muslem-مسلم).mp3"},
-        {"title": "إستار اكاديمي", "file": "إستار اكاديمي (Up-By-Muslem-مسلم).mp3"},
-        {"title": "الأرقام تتكلم", "file": "الأرقام تتكلم (Up-By-Muslem-مسلم).mp3"},
-        {"title": "الأقصى يحتضر والهيكل إكتمل", "file": "الأقصى يحتضر والهيكل إكتمل (Up-By-Muslem-مسلم).mp3"},
-        {"title": "الأمر بالمعروف والنهي عن المنكر", "file": "الأمر بالمعروف والنهي عن المنكر (Up-By-Muslem-مسلم).mp3"},
-        {"title": "الا تعفون ؟", "file": "الا تعفون ؟ (Up-By-Muslem-مسلم).mp3"},
-        {"title": "البدار إلى دار الأبرار", "file": "البدار إلى دار الأبرار (Up-By-Muslem-مسلم).mp3"},
-        {"title": "الذب عن عرض النبي", "file": "الذب عن عرض النبي (Up-By-Muslem-مسلم).mp3"},
-        {"title": "الرشوة", "file": "الرشوة (Up-By-Muslem-مسلم).mp3"},
-        {"title": "السحر", "file": "السحر (Up-By-Muslem-مسلم).mp3"},
-        {"title": "الصراع ماضي إلى قيام الساعة", "file": "الصراع ماضي إلى قيام الساعة (Up-By-Muslem-مسلم).mp3"},
-        {"title": "العائدون إلى الله", "file": "العائدون إلى الله (Up-By-Muslem-مسلم).mp3"},
-        {"title": "العدل أساس الدين", "file": "العدل أساس الدين (Up-By-Muslem-مسلم).mp3"},
-        {"title": "العزة في دين الله", "file": "العزة في دين الله (Up-By-Muslem-مسلم).mp3"},
-        {"title": "الفرج .. بعد الشدة", "file": "الفرج .. بعد الشدة (Up-By-Muslem-مسلم).mp3"},
-        {"title": "الموت المفاجئ", "file": "الموت المفاجئ (Up-By-Muslem-مسلم).mp3"}
-      ]
-    },
-    {
-      "id": "40-hadith-nawawi",
-      "title": "40 Hadith Nawawi",
-      "titleAr": "الأربعون حديثا النووية",
-      "description": "شرح الأربعين حديثا النووية",
-      "source": "github",
-      "repo": "Sidimadtv/Qurani-Jannati",
-      "folder": "40-nawawiya",
-      "poster": "https://cdn.jsdelivr.net/gh/Sidimadtv/mydata-audio@main/pic/naw.jpg",
-      "episodes": [
-        {"title": "Episode 1", "file": "audio_1.mp3"},
-        {"title": "Episode 2", "file": "audio_2.mp3"},
-        {"title": "Episode 3", "file": "audio_3.mp3"},
-        {"title": "Episode 4", "file": "audio_4.mp3"},
-        {"title": "Episode 5", "file": "audio_5.mp3"},
-        {"title": "Episode 6", "file": "audio_6.mp3"},
-        {"title": "Episode 7", "file": "audio_7.mp3"},
-        {"title": "Episode 8", "file": "audio_8.mp3"},
-        {"title": "Episode 9", "file": "audio_9.mp3"},
-        {"title": "Episode 10", "file": "audio_10.mp3"},
-        {"title": "Episode 11", "file": "audio_11.mp3"},
-        {"title": "Episode 12", "file": "audio_12.mp3"},
-        {"title": "Episode 13", "file": "audio_13.mp3"},
-        {"title": "Episode 14", "file": "audio_14.mp3"},
-        {"title": "Episode 15", "file": "audio_15.mp3"},
-        {"title": "Episode 16", "file": "audio_16.mp3"},
-        {"title": "Episode 17", "file": "audio_17.mp3"},
-        {"title": "Episode 18", "file": "audio_18.mp3"},
-        {"title": "Episode 19", "file": "audio_19.mp3"},
-        {"title": "Episode 20", "file": "audio_20.mp3"},
-        {"title": "Episode 21", "file": "audio_21.mp3"},
-        {"title": "Episode 22", "file": "audio_22.mp3"},
-        {"title": "Episode 23", "file": "audio_23.mp3"},
-        {"title": "Episode 24", "file": "audio_24.mp3"},
-        {"title": "Episode 25", "file": "audio_25.mp3"},
-        {"title": "Episode 26", "file": "audio_26.mp3"},
-        {"title": "Episode 27", "file": "audio_27.mp3"},
-        {"title": "Episode 28", "file": "audio_28.mp3"},
-        {"title": "Episode 29", "file": "audio_29.mp3"},
-        {"title": "Episode 30", "file": "audio_30.mp3"},
-        {"title": "Episode 31", "file": "audio_31.mp3"},
-        {"title": "Episode 32", "file": "audio_32.mp3"},
-        {"title": "Episode 33", "file": "audio_33.mp3"},
-        {"title": "Episode 34", "file": "audio_34.mp3"},
-        {"title": "Episode 35", "file": "audio_35.mp3"},
-        {"title": "Episode 36", "file": "audio_36.mp3"},
-        {"title": "Episode 37", "file": "audio_37.mp3"},
-        {"title": "Episode 38", "file": "audio_38.mp3"},
-        {"title": "Episode 39", "file": "audio_39.mp3"},
-        {"title": "Episode 40", "file": "audio_40.mp3"},
-        {"title": "Episode 41", "file": "audio_41.mp3"},
-        {"title": "Episode 42", "file": "audio_42.mp3"}
-      ]
-    },
-    {
-      "id": "yawm-al-mi3ad",
-      "title": "Yawm al Mi3ad",
-      "titleAr": "يوم المعاد",
-      "description": "خطبة يوم المعاد - الموت والقبر والحساب",
-      "source": "archive",
-      "identifier": "Sidimadtv-Yawmalmiaad",
-      "poster": "https://cdn.jsdelivr.net/gh/Sidimadtv/mydata-audio@main/pic/miad.jpg",
-      "episodes": [
-        {"title": "الموت وسكراته", "file": "01_2.mp3"},
-        {"title": "عذاب القبر ونعيمه", "file": "02_2.mp3"},
-        {"title": "النفخ في الصور", "file": "03.mp3"},
-        {"title": "الحساب والجزاء", "file": "04.mp3"},
-        {"title": "صفة النار", "file": "05.mp3"},
-        {"title": "صفة الجنة", "file": "06.mp3"}
-      ]
-    },
-    {
-      "id": "rawae3-al-kisas",
-      "title": "Rawae3 al Kisas",
-      "titleAr": "رائعات القصص",
-      "description": "رائعات من القصص القرآني",
-      "source": "archive",
-      "identifier": "Sidimadtv-Rawaea",
-      "poster": "https://archive.org/services/img/Sidimadtv-Rawaea",
-      "episodes": [
-        {"title": "الدرس الأول", "file": "001.mp3"},
-        {"title": "الدرس الثاني", "file": "002.mp3"},
-        {"title": "الدرس الثالث", "file": "003.mp3"},
-        {"title": "الدرس الرابع", "file": "004.mp3"},
-        {"title": "الدرس الخامس", "file": "005.mp3"},
-        {"title": "الدرس السادس", "file": "006.mp3"},
-        {"title": "الدرس السابع", "file": "007.mp3"},
-        {"title": "الدرس الثامن", "file": "008.mp3"}
-      ]
-    },
-    {
-      "id": "kisas-al-anbiya",
-      "title": "Kisas al Anbiya",
-      "titleAr": "قصص الأنبياء",
-      "description": "قصص الأنبياء والمرسلين عليهم السلام",
-      "source": "archive",
-      "identifier": "sidimadtvkisas-al-anbiyae",
-      "poster": "https://cdn.jsdelivr.net/gh/Sidimadtv/mydata-audio@main/pic/kisas.jpg",
-      "episodes": [
-        {"title": "قصة آدم عليه السلام", "file": "قصة آدم عليه السلام.mp3"},
-        {"title": "قصة أيوب عليه السلام", "file": "قصة أيوب عليه السلام.mp3"},
-        {"title": "قصة إبراهيم عليه السلام", "file": "قصة إبراهيم عليه السلام.mp3"},
-        {"title": "قصة ادريس ونوح عليهما السلام", "file": "قصة ادريس ونوح عليهما السلام.mp3"},
-        {"title": "قصة الخضر عليه السلام", "file": "قصة الخضر عليه السلام.mp3"},
-        {"title": "قصة داوود عليه السلام", "file": "قصة داوود عليه السلام.mp3"},
-        {"title": "قصة زكريا و يحي عليهما السلام", "file": "قصة زكريا و يحي عليهما السلام.mp3"},
-        {"title": "قصة سليمان و العزير عليهما السلام", "file": "قصة سليمان و العزير عليهما السلام.mp3"},
-        {"title": "قصة شعيب عليه السلام", "file": "قصة شعيب عليه السلام.mp3"},
-        {"title": "قصة صالح عليه السلام", "file": "قصة صالح عليه السلام.mp3"},
-        {"title": "قصة عيسى عليه السلام", "file": "قصة عيسى عليه السلام.mp3"},
-        {"title": "قصة لوط عليه السلام", "file": "قصة لوط عليه السلام.mp3"},
-        {"title": "قصة محمد صلّ الله عليه و سلم", "file": "قصة محمد صلّ الله عليه و سلم.mp3"},
-        {"title": "قصة مريم بنت عمران عليها السلام", "file": "قصة مريم بنت عمران عليها السلام.mp3"},
-        {"title": "قصة موسى عليه السلام", "file": "قصة موسى عليه السلام.mp3"},
-        {"title": "قصة هود عليه السلام", "file": "قصة هود عليه السلام.mp3"},
-        {"title": "قصة يوسف عليه السلام", "file": "قصة يوسف عليه السلام.mp3"},
-        {"title": "قصة يوشع بن نون عليه السلام", "file": "قصة يوشع بن نون عليه السلام.mp3"},
-        {"title": "قصة يونس عليه السلام", "file": "قصة يونس عليه السلام.mp3"}
-      ]
-    },
-    {
-      "id": "seerah",
-      "title": "Seerah",
-      "titleAr": "السيرة النبوية",
-      "description": "السيرة النبوية للنبي محمد صلى الله عليه وسلم",
-      "source": "archive",
-      "identifier": "Sidimadtv_Seerah",
-      "poster": "https://cdn.jsdelivr.net/gh/Sidimadtv/mydata-audio@main/pic/seerah.png",
-      "episodes": [
-        {"title": "Episode 1", "file": "seera01.mp3"},
-        {"title": "Episode 2", "file": "seera02.mp3"},
-        {"title": "Episode 3", "file": "seera03.mp3"},
-        {"title": "Episode 4", "file": "seera04.mp3"},
-        {"title": "Episode 5", "file": "seera05.mp3"},
-        {"title": "Episode 6", "file": "seera06.mp3"},
-        {"title": "Episode 7", "file": "seera07.mp3"},
-        {"title": "Episode 8", "file": "seera08.mp3"},
-        {"title": "Episode 9", "file": "seera09.mp3"},
-        {"title": "Episode 10", "file": "seera10.mp3"},
-        {"title": "Episode 11", "file": "seera11.mp3"},
-        {"title": "Episode 12", "file": "seera12.mp3"},
-        {"title": "Episode 13", "file": "seera13.mp3"},
-        {"title": "Episode 14", "file": "seera14.mp3"},
-        {"title": "Episode 15", "file": "seera15.mp3"},
-        {"title": "Episode 16", "file": "seera16.mp3"},
-        {"title": "Episode 17", "file": "seera17.mp3"},
-        {"title": "Episode 18", "file": "seera18.mp3"},
-        {"title": "Episode 19", "file": "seera19.mp3"},
-        {"title": "Episode 20", "file": "seera20.mp3"},
-        {"title": "Episode 21", "file": "seera21.mp3"},
-        {"title": "Episode 22", "file": "seera22.mp3"},
-        {"title": "Episode 23", "file": "seera23.mp3"},
-        {"title": "Episode 24", "file": "seera24.mp3"},
-        {"title": "Episode 25", "file": "seera25.mp3"},
-        {"title": "Episode 26", "file": "seera26.mp3"},
-        {"title": "Episode 27", "file": "seera27.mp3"},
-        {"title": "Episode 28", "file": "seera28.mp3"},
-        {"title": "Episode 29", "file": "seera29.mp3"},
-        {"title": "Episode 30", "file": "seera30.mp3"}
-      ]
-    }
-  ],
-  "pdfs": [
-    {
-      "title": "Sidimad Quran",
-      "file": "Sidimad-Quran.pdf",
-      "url": "https://cdn.jsdelivr.net/gh/Sidimadtv/Qurani-Jannati@main/pdfs/Sidimad-Quran.pdf",
-      "poster": "https://cdn.jsdelivr.net/gh/Sidimadtv/Qurani-Jannati@main/pdfs/posters/Sidimad-Quran.jpg"
-    },
-    {
-      "title": "Al Bitaqat Book",
-      "file": "AlBitaqat-Book-ar.pdf",
-      "url": "https://cdn.jsdelivr.net/gh/Sidimadtv/Qurani-Jannati@main/pdfs/AlBitaqat-Book-ar.pdf",
-      "poster": "https://cdn.jsdelivr.net/gh/Sidimadtv/Qurani-Jannati@main/pdfs/posters/AlBitaqat-Book-ar.jpg"
-    },
-    {
-      "title": "Ilm Tajweed",
-      "file": "ilm-tajweed.pdf",
-      "url": "https://cdn.jsdelivr.net/gh/Sidimadtv/Qurani-Jannati@main/pdfs/ilm-tajweed.pdf",
-      "poster": "https://cdn.jsdelivr.net/gh/Sidimadtv/Qurani-Jannati@main/pdfs/posters/ilm-tajweed.jpg"
-    },
-    {
-      "title": "التجويد الميسر",
-      "file": "التجويد الميسر.pdf",
-      "url": "https://cdn.jsdelivr.net/gh/Sidimadtv/Qurani-Jannati@main/pdfs/%D8%A7%D9%84%D8%AA%D8%AC%D9%88%D9%8A%D8%AF%20%D8%A7%D9%84%D9%85%D9%8A%D8%B3%D8%B1.pdf",
-      "poster": "https://cdn.jsdelivr.net/gh/Sidimadtv/Qurani-Jannati@main/pdfs/posters/التجويد الميسر.jpg"
-    },
-    {
-      "title": "رياض الصالحين للنووي",
-      "file": "رياض_الصالحين_للنووي.pdf",
-      "url": "https://cdn.jsdelivr.net/gh/Sidimadtv/Qurani-Jannati@main/pdfs/%D8%B1%D9%8A%D8%A7%D8%B6_%D8%A7%D9%84%D8%B5%D8%A7%D9%84%D8%AD%D9%8A%D9%86_%D9%84%D9%84%D9%86%D9%88%D9%88%D9%8A.pdf",
-      "poster": "https://cdn.jsdelivr.net/gh/Sidimadtv/Qurani-Jannati@main/pdfs/posters/رياض_الصالحين_للنووي.jpg"
-    },
-    {
-      "title": "قصص الأنبياء",
-      "file": "قصص_الأنبياء.pdf",
-      "url": "https://cdn.jsdelivr.net/gh/Sidimadtv/Qurani-Jannati@main/pdfs/%D9%82%D8%B5%D8%B5_%D8%A7%D9%84%D8%A3%D9%86%D8%A8%D9%8A%D8%A7%D8%A1.pdf",
-      "poster": "https://cdn.jsdelivr.net/gh/Sidimadtv/Qurani-Jannati@main/pdfs/posters/قصص_الأنبياء.jpg"
-    }
-  ]
+	"version": 1,
+	"audio_series": [
+		{
+			"id": "kisas-al-anbiya",
+			"title": "Kisas al Anbiya",
+			"titleAr": "قصص الأنبياء",
+			"description": "قصص الأنبياء والمرسلين عليهم السلام",
+			"source": "archive",
+			"identifier": "sidimadtvkisas-al-anbiyae",
+			"poster": "https://cdn.jsdelivr.net/gh/Sidimadtv/mydata-audio@main/pic/kisas.jpg",
+			"episodes": [
+				{
+					"title": "قصة آدم عليه السلام",
+					"file": "قصة آدم عليه السلام.mp3"
+				},
+				{
+					"title": "قصة أيوب عليه السلام",
+					"file": "قصة أيوب عليه السلام.mp3"
+				},
+				{
+					"title": "قصة إبراهيم عليه السلام",
+					"file": "قصة إبراهيم عليه السلام.mp3"
+				},
+				{
+					"title": "قصة ادريس ونوح عليهما السلام",
+					"file": "قصة ادريس ونوح عليهما السلام.mp3"
+				},
+				{
+					"title": "قصة الخضر عليه السلام",
+					"file": "قصة الخضر عليه السلام.mp3"
+				},
+				{
+					"title": "قصة داوود عليه السلام",
+					"file": "قصة داوود عليه السلام.mp3"
+				},
+				{
+					"title": "قصة زكريا و يحي عليهما السلام",
+					"file": "قصة زكريا و يحي عليهما السلام.mp3"
+				},
+				{
+					"title": "قصة سليمان و العزير عليهما السلام",
+					"file": "قصة سليمان و العزير عليهما السلام.mp3"
+				},
+				{
+					"title": "قصة شعيب عليه السلام",
+					"file": "قصة شعيب عليه السلام.mp3"
+				},
+				{
+					"title": "قصة صالح عليه السلام",
+					"file": "قصة صالح عليه السلام.mp3"
+				},
+				{
+					"title": "قصة عيسى عليه السلام",
+					"file": "قصة عيسى عليه السلام.mp3"
+				},
+				{
+					"title": "قصة لوط عليه السلام",
+					"file": "قصة لوط عليه السلام.mp3"
+				},
+				{
+					"title": "قصة محمد صلّ الله عليه و سلم",
+					"file": "قصة محمد صلّ الله عليه و سلم.mp3"
+				},
+				{
+					"title": "قصة مريم بنت عمران عليها السلام",
+					"file": "قصة مريم بنت عمران عليها السلام.mp3"
+				},
+				{
+					"title": "قصة موسى عليه السلام",
+					"file": "قصة موسى عليه السلام.mp3"
+				},
+				{
+					"title": "قصة هود عليه السلام",
+					"file": "قصة هود عليه السلام.mp3"
+				},
+				{
+					"title": "قصة يوسف عليه السلام",
+					"file": "قصة يوسف عليه السلام.mp3"
+				},
+				{
+					"title": "قصة يوشع بن نون عليه السلام",
+					"file": "قصة يوشع بن نون عليه السلام.mp3"
+				},
+				{
+					"title": "قصة يونس عليه السلام",
+					"file": "قصة يونس عليه السلام.mp3"
+				}
+			]
+		},
+		{
+			"id": "seerah",
+			"title": "Seerah",
+			"titleAr": "السيرة النبوية",
+			"description": "السيرة النبوية للنبي محمد صلى الله عليه وسلم",
+			"source": "archive",
+			"identifier": "Sidimadtv_Seerah",
+			"poster": "https://cdn.jsdelivr.net/gh/Sidimadtv/mydata-audio@main/pic/seerah.png",
+			"episodes": [
+				{
+					"title": "Episode 1",
+					"file": "seera01.mp3"
+				},
+				{
+					"title": "Episode 2",
+					"file": "seera02.mp3"
+				},
+				{
+					"title": "Episode 3",
+					"file": "seera03.mp3"
+				},
+				{
+					"title": "Episode 4",
+					"file": "seera04.mp3"
+				},
+				{
+					"title": "Episode 5",
+					"file": "seera05.mp3"
+				},
+				{
+					"title": "Episode 6",
+					"file": "seera06.mp3"
+				},
+				{
+					"title": "Episode 7",
+					"file": "seera07.mp3"
+				},
+				{
+					"title": "Episode 8",
+					"file": "seera08.mp3"
+				},
+				{
+					"title": "Episode 9",
+					"file": "seera09.mp3"
+				},
+				{
+					"title": "Episode 10",
+					"file": "seera10.mp3"
+				},
+				{
+					"title": "Episode 11",
+					"file": "seera11.mp3"
+				},
+				{
+					"title": "Episode 12",
+					"file": "seera12.mp3"
+				},
+				{
+					"title": "Episode 13",
+					"file": "seera13.mp3"
+				},
+				{
+					"title": "Episode 14",
+					"file": "seera14.mp3"
+				},
+				{
+					"title": "Episode 15",
+					"file": "seera15.mp3"
+				},
+				{
+					"title": "Episode 16",
+					"file": "seera16.mp3"
+				},
+				{
+					"title": "Episode 17",
+					"file": "seera17.mp3"
+				},
+				{
+					"title": "Episode 18",
+					"file": "seera18.mp3"
+				},
+				{
+					"title": "Episode 19",
+					"file": "seera19.mp3"
+				},
+				{
+					"title": "Episode 20",
+					"file": "seera20.mp3"
+				},
+				{
+					"title": "Episode 21",
+					"file": "seera21.mp3"
+				},
+				{
+					"title": "Episode 22",
+					"file": "seera22.mp3"
+				},
+				{
+					"title": "Episode 23",
+					"file": "seera23.mp3"
+				},
+				{
+					"title": "Episode 24",
+					"file": "seera24.mp3"
+				},
+				{
+					"title": "Episode 25",
+					"file": "seera25.mp3"
+				},
+				{
+					"title": "Episode 26",
+					"file": "seera26.mp3"
+				},
+				{
+					"title": "Episode 27",
+					"file": "seera27.mp3"
+				},
+				{
+					"title": "Episode 28",
+					"file": "seera28.mp3"
+				},
+				{
+					"title": "Episode 29",
+					"file": "seera29.mp3"
+				},
+				{
+					"title": "Episode 30",
+					"file": "seera30.mp3"
+				}
+			]
+		},
+		{
+			"id": "al-farouk",
+			"title": "Al-Farouk",
+			"titleAr": "الفاروق",
+			"description": "جليم عن حياة الخلفاء الراشدين",
+			"source": "github",
+			"repo": "Sidimadtv/mydata-audio",
+			"folder": "Al-Farouk",
+			"poster": "https://cdn.jsdelivr.net/gh/Sidimadtv/mydata-audio@main/pic/omar.jpg",
+			"episodes": [
+				{
+					"title": "Episode 1",
+					"file": "2 (1).mp3"
+				},
+				{
+					"title": "Episode 2",
+					"file": "2 (2).mp3"
+				},
+				{
+					"title": "Episode 3",
+					"file": "2 (3).mp3"
+				},
+				{
+					"title": "Episode 4",
+					"file": "2 (4).mp3"
+				},
+				{
+					"title": "Episode 5",
+					"file": "2 (5).mp3"
+				},
+				{
+					"title": "Episode 6",
+					"file": "2 (6).mp3"
+				},
+				{
+					"title": "Episode 7",
+					"file": "2 (7).mp3"
+				},
+				{
+					"title": "Episode 8",
+					"file": "2 (8).mp3"
+				},
+				{
+					"title": "Episode 9",
+					"file": "2 (9).mp3"
+				},
+				{
+					"title": "Episode 10",
+					"file": "2 (10).mp3"
+				},
+				{
+					"title": "Episode 11",
+					"file": "2 (11).mp3"
+				},
+				{
+					"title": "Episode 12",
+					"file": "2 (12).mp3"
+				},
+				{
+					"title": "Episode 13",
+					"file": "2 (13).mp3"
+				},
+				{
+					"title": "Episode 14",
+					"file": "2 (14).mp3"
+				},
+				{
+					"title": "Episode 15",
+					"file": "2 (15).mp3"
+				},
+				{
+					"title": "Episode 16",
+					"file": "2 (16).mp3"
+				},
+				{
+					"title": "Episode 17",
+					"file": "2 (17).mp3"
+				},
+				{
+					"title": "Episode 18",
+					"file": "2 (18).mp3"
+				},
+				{
+					"title": "Episode 19",
+					"file": "2 (19).mp3"
+				},
+				{
+					"title": "Episode 20",
+					"file": "2 (20).mp3"
+				},
+				{
+					"title": "Episode 21",
+					"file": "2 (21).mp3"
+				},
+				{
+					"title": "Episode 22",
+					"file": "2 (22).mp3"
+				},
+				{
+					"title": "Episode 23",
+					"file": "2 (23).mp3"
+				},
+				{
+					"title": "Episode 24",
+					"file": "2 (24).mp3"
+				},
+				{
+					"title": "Episode 25",
+					"file": "2 (25).mp3"
+				},
+				{
+					"title": "Episode 26",
+					"file": "2 (26).mp3"
+				},
+				{
+					"title": "Episode 27",
+					"file": "2 (27).mp3"
+				},
+				{
+					"title": "Episode 28",
+					"file": "2 (28).mp3"
+				},
+				{
+					"title": "Episode 29",
+					"file": "2 (29).mp3"
+				},
+				{
+					"title": "Episode 30",
+					"file": "2 (30).mp3"
+				}
+			]
+		},
+		{
+			"id": "fadael",
+			"title": "Fadael",
+			"titleAr": "فضائل",
+			"description": "فضائل وأخلاق إسلامية",
+			"source": "github",
+			"repo": "Sidimadtv/mydata-audio",
+			"folder": "Fadael",
+			"poster": "https://cdn.jsdelivr.net/gh/Sidimadtv/mydata-audio@main/Fadael/poster.jpg",
+			"episodes": [
+				{
+					"title": "Episode 1",
+					"file": "01.mp3"
+				},
+				{
+					"title": "Episode 2",
+					"file": "02.mp3"
+				},
+				{
+					"title": "Episode 3",
+					"file": "03.mp3"
+				},
+				{
+					"title": "Episode 4",
+					"file": "04.mp3"
+				},
+				{
+					"title": "Episode 5",
+					"file": "05.mp3"
+				},
+				{
+					"title": "Episode 6",
+					"file": "06.mp3"
+				},
+				{
+					"title": "Episode 7",
+					"file": "07.mp3"
+				},
+				{
+					"title": "Episode 8",
+					"file": "08.mp3"
+				},
+				{
+					"title": "Episode 9",
+					"file": "09.mp3"
+				},
+				{
+					"title": "Episode 10",
+					"file": "10.mp3"
+				},
+				{
+					"title": "Episode 11",
+					"file": "11.mp3"
+				},
+				{
+					"title": "Episode 12",
+					"file": "12.mp3"
+				},
+				{
+					"title": "Episode 13",
+					"file": "13.mp3"
+				},
+				{
+					"title": "Episode 14",
+					"file": "14.mp3"
+				},
+				{
+					"title": "Episode 15",
+					"file": "15.mp3"
+				},
+				{
+					"title": "Episode 16",
+					"file": "16.mp3"
+				},
+				{
+					"title": "Episode 17",
+					"file": "17.mp3"
+				},
+				{
+					"title": "Episode 18",
+					"file": "18.mp3"
+				},
+				{
+					"title": "Episode 19",
+					"file": "19.mp3"
+				},
+				{
+					"title": "Episode 20",
+					"file": "20.mp3"
+				}
+			]
+		},
+		{
+			"id": "mashahid",
+			"title": "Mashahid",
+			"titleAr": "مشاهد",
+			"description": "مشاهد من حياة المسلم",
+			"source": "github",
+			"repo": "Sidimadtv/mydata-audio",
+			"folder": "Mashahid",
+			"poster": "https://cdn.jsdelivr.net/gh/Sidimadtv/mydata-audio@main/Mashahid/poster.jpg",
+			"episodes": [
+				{
+					"title": "Episode 1",
+					"file": "Mashahid_3_01.mp3"
+				},
+				{
+					"title": "Episode 2",
+					"file": "Mashahid_3_02.mp3"
+				},
+				{
+					"title": "Episode 3",
+					"file": "Mashahid_3_03.mp3"
+				},
+				{
+					"title": "Episode 4",
+					"file": "Mashahid_3_04.mp3"
+				},
+				{
+					"title": "Episode 5",
+					"file": "Mashahid_3_05.mp3"
+				},
+				{
+					"title": "Episode 6",
+					"file": "Mashahid_3_06.mp3"
+				},
+				{
+					"title": "Episode 7",
+					"file": "Mashahid_3_07.mp3"
+				},
+				{
+					"title": "Episode 8",
+					"file": "Mashahid_3_08.mp3"
+				},
+				{
+					"title": "Episode 9",
+					"file": "Mashahid_3_09.mp3"
+				},
+				{
+					"title": "Episode 10",
+					"file": "Mashahid_3_10.mp3"
+				},
+				{
+					"title": "Episode 11",
+					"file": "Mashahid_3_11.mp3"
+				},
+				{
+					"title": "Episode 12",
+					"file": "Mashahid_3_12.mp3"
+				},
+				{
+					"title": "Episode 13",
+					"file": "Mashahid_3_13.mp3"
+				},
+				{
+					"title": "Episode 14",
+					"file": "Mashahid_3_14.mp3"
+				},
+				{
+					"title": "Episode 15",
+					"file": "Mashahid_3_15.mp3"
+				},
+				{
+					"title": "Episode 16",
+					"file": "Mashahid_3_16.mp3"
+				},
+				{
+					"title": "Episode 17",
+					"file": "Mashahid_3_17.mp3"
+				},
+				{
+					"title": "Episode 18",
+					"file": "Mashahid_3_18.mp3"
+				},
+				{
+					"title": "Episode 19",
+					"file": "Mashahid_3_19.mp3"
+				},
+				{
+					"title": "Episode 20",
+					"file": "Mashahid_3_20.mp3"
+				},
+				{
+					"title": "Episode 21",
+					"file": "Mashahid_3_21.mp3"
+				},
+				{
+					"title": "Episode 22",
+					"file": "Mashahid_3_22.mp3"
+				},
+				{
+					"title": "Episode 23",
+					"file": "Mashahid_3_23.mp3"
+				},
+				{
+					"title": "Episode 24",
+					"file": "Mashahid_3_24.mp3"
+				},
+				{
+					"title": "Episode 25",
+					"file": "Mashahid_3_25.mp3"
+				},
+				{
+					"title": "Episode 26",
+					"file": "Mashahid_3_26.mp3"
+				},
+				{
+					"title": "Episode 27",
+					"file": "Mashahid_3_27.mp3"
+				},
+				{
+					"title": "Episode 28",
+					"file": "Mashahid_3_28.mp3"
+				},
+				{
+					"title": "Episode 29",
+					"file": "Mashahid_3_29.mp3"
+				},
+				{
+					"title": "Episode 30",
+					"file": "Mashahid_3_30.mp3"
+				}
+			]
+		},
+		{
+			"id": "tariq-ila-ljanna",
+			"title": "Tariq ila Ljanna",
+			"titleAr": "طريق إلى الجنة",
+			"description": "طريق النجاة والفوز بالجنة",
+			"source": "github",
+			"repo": "Sidimadtv/mydata-audio",
+			"folder": "Tariq-ila-Ljanna",
+			"poster": "https://cdn.jsdelivr.net/gh/Sidimadtv/mydata-audio@main/Tariq-ila-Ljanna/poster.jpg",
+			"episodes": [
+				{
+					"title": "Episode 1",
+					"file": "001.mp3"
+				},
+				{
+					"title": "Episode 2",
+					"file": "002.mp3"
+				},
+				{
+					"title": "Episode 3",
+					"file": "003.mp3"
+				},
+				{
+					"title": "Episode 4",
+					"file": "004.mp3"
+				},
+				{
+					"title": "Episode 5",
+					"file": "005.mp3"
+				},
+				{
+					"title": "Episode 6",
+					"file": "006.mp3"
+				},
+				{
+					"title": "Episode 7",
+					"file": "007.mp3"
+				},
+				{
+					"title": "Episode 8",
+					"file": "008.mp3"
+				},
+				{
+					"title": "Episode 9",
+					"file": "009.mp3"
+				},
+				{
+					"title": "Episode 10",
+					"file": "010.mp3"
+				},
+				{
+					"title": "Episode 11",
+					"file": "011.mp3"
+				},
+				{
+					"title": "Episode 12",
+					"file": "012.mp3"
+				},
+				{
+					"title": "Episode 13",
+					"file": "013.mp3"
+				},
+				{
+					"title": "Episode 14",
+					"file": "014.mp3"
+				},
+				{
+					"title": "Episode 15",
+					"file": "015.mp3"
+				},
+				{
+					"title": "Episode 16",
+					"file": "016.mp3"
+				},
+				{
+					"title": "Episode 17",
+					"file": "017.mp3"
+				},
+				{
+					"title": "Episode 18",
+					"file": "018.mp3"
+				},
+				{
+					"title": "Episode 19",
+					"file": "019.mp3"
+				},
+				{
+					"title": "Episode 20",
+					"file": "020.mp3"
+				},
+				{
+					"title": "Episode 21",
+					"file": "021.mp3"
+				},
+				{
+					"title": "Episode 22",
+					"file": "022.mp3"
+				},
+				{
+					"title": "Episode 23",
+					"file": "023.mp3"
+				},
+				{
+					"title": "Episode 24",
+					"file": "024.mp3"
+				},
+				{
+					"title": "Episode 25",
+					"file": "025.mp3"
+				},
+				{
+					"title": "Episode 26",
+					"file": "026.mp3"
+				},
+				{
+					"title": "Episode 27",
+					"file": "027.mp3"
+				},
+				{
+					"title": "Episode 28",
+					"file": "028.mp3"
+				},
+				{
+					"title": "Episode 29",
+					"file": "029.mp3"
+				},
+				{
+					"title": "Episode 30",
+					"file": "030.mp3"
+				}
+			]
+		},
+		{
+			"id": "kholafa-rashedon",
+			"title": "Kholafa Rashedon",
+			"titleAr": "الخلفاء الراشدون",
+			"description": "سيرة الخلفاء الراشدين الأربعة",
+			"source": "github",
+			"repo": "Sidimadtv/mydata-audio",
+			"folder": "kholafa-rashedon",
+			"poster": "https://cdn.jsdelivr.net/gh/Sidimadtv/mydata-audio@main/kholafa-rashedon/poster.jpg",
+			"episodes": [
+				{
+					"title": "Episode 1",
+					"file": "1.mp3"
+				},
+				{
+					"title": "Episode 2",
+					"file": "2.mp3"
+				},
+				{
+					"title": "Episode 3",
+					"file": "3.mp3"
+				},
+				{
+					"title": "Episode 4",
+					"file": "4.mp3"
+				}
+			]
+		},
+		{
+			"id": "shakhsyat-3ibar",
+			"title": "Shakhsyat 3ibar",
+			"titleAr": "شخصيات عبرة",
+			"description": "شخصيات من التاريخ الإسلامي عبرة وعبرى",
+			"source": "github",
+			"repo": "Sidimadtv/mydata-audio",
+			"folder": "shakhsyat-3ibar",
+			"poster": "https://cdn.jsdelivr.net/gh/Sidimadtv/mydata-audio@main/shakhsyat-3ibar/poster.jpg",
+			"episodes": [
+				{
+					"title": "Episode 1",
+					"file": "01.mp3"
+				},
+				{
+					"title": "Episode 2",
+					"file": "02.mp3"
+				},
+				{
+					"title": "Episode 3",
+					"file": "03.mp3"
+				},
+				{
+					"title": "Episode 4",
+					"file": "04.mp3"
+				},
+				{
+					"title": "Episode 5",
+					"file": "05.mp3"
+				},
+				{
+					"title": "Episode 6",
+					"file": "06.mp3"
+				},
+				{
+					"title": "Episode 7",
+					"file": "07.mp3"
+				},
+				{
+					"title": "Episode 8",
+					"file": "08.mp3"
+				},
+				{
+					"title": "Episode 9",
+					"file": "09.mp3"
+				},
+				{
+					"title": "Episode 10",
+					"file": "10.mp3"
+				},
+				{
+					"title": "Episode 11",
+					"file": "11.mp3"
+				},
+				{
+					"title": "Episode 12",
+					"file": "12.mp3"
+				},
+				{
+					"title": "Episode 13",
+					"file": "13.mp3"
+				},
+				{
+					"title": "Episode 14",
+					"file": "14.mp3"
+				},
+				{
+					"title": "Episode 15",
+					"file": "15.mp3"
+				},
+				{
+					"title": "Episode 16",
+					"file": "16.mp3"
+				},
+				{
+					"title": "Episode 17",
+					"file": "17.mp3"
+				},
+				{
+					"title": "Episode 18",
+					"file": "18.mp3"
+				},
+				{
+					"title": "Episode 19",
+					"file": "19.mp3"
+				},
+				{
+					"title": "Episode 20",
+					"file": "20.mp3"
+				},
+				{
+					"title": "Episode 21",
+					"file": "21.mp3"
+				},
+				{
+					"title": "Episode 22",
+					"file": "22.mp3"
+				},
+				{
+					"title": "Episode 23",
+					"file": "23.mp3"
+				},
+				{
+					"title": "Episode 24",
+					"file": "24.mp3"
+				},
+				{
+					"title": "Episode 25",
+					"file": "25.mp3"
+				},
+				{
+					"title": "Episode 26",
+					"file": "26.mp3"
+				},
+				{
+					"title": "Episode 27",
+					"file": "27.mp3"
+				},
+				{
+					"title": "Episode 28",
+					"file": "28.mp3"
+				},
+				{
+					"title": "Episode 29",
+					"file": "29.mp3"
+				},
+				{
+					"title": "Episode 30",
+					"file": "30.mp3"
+				}
+			]
+		},
+		{
+			"id": "mawsoaa",
+			"title": "Mawsoaa",
+			"titleAr": "المؤلفات",
+			"description": "مجموعة من المواعظ والإرشادات الإسلامية",
+			"source": "github",
+			"repo": "Sidimadtv/Smart",
+			"folder": "Mawsoaa",
+			"poster": "https://cdn.jsdelivr.net/gh/Sidimadtv/Smart@main/Mawsoaa/poster.jpg",
+			"episodes": [
+				{
+					"title": "60 عام على النكبة",
+					"file": "60 عام على النكبة (Up-By-Muslem-مسلم).mp3"
+				},
+				{
+					"title": "alloiloitokythfzonfsha",
+					"file": "alloiloitokythfzonfsha.mp3"
+				},
+				{
+					"title": "elamnhgbhoaldbab",
+					"file": "elamnhgbhoaldbab.mp3"
+				},
+				{
+					"title": "أحسنكم خلقا",
+					"file": "أحسنكم خلقا (Up-By-Muslem-مسلم).mp3"
+				},
+				{
+					"title": "أعظم العلوم",
+					"file": "أعظم العلوم (Up-By-Muslem-مسلم).mp3"
+				},
+				{
+					"title": "أعظم رحلة",
+					"file": "أعظم رحلة (Up-By-Muslem-مسلم).mp3"
+				},
+				{
+					"title": "أمسك عليك لسانك",
+					"file": "أمسك عليك لسانك (Up-By-Muslem-مسلم).mp3"
+				},
+				{
+					"title": "أمن يجيب المضطر إذا دعاه",
+					"file": "أمن يجيب المضطر إذا دعاه (Up-By-Muslem-مسلم).mp3"
+				},
+				{
+					"title": "إحذر الصغائر",
+					"file": "إحذر الصغائر (Up-By-Muslem-مسلم).mp3"
+				},
+				{
+					"title": "إذا اشتدت الأزمات تميز الناس",
+					"file": "إذا اشتدت الأزمات تميز الناس (Up-By-Muslem-مسلم).mp3"
+				},
+				{
+					"title": "إرم",
+					"file": "إرم (Up-By-Muslem-مسلم).mp3"
+				},
+				{
+					"title": "إستار اكاديمي",
+					"file": "إستار اكاديمي (Up-By-Muslem-مسلم).mp3"
+				},
+				{
+					"title": "الأرقام تتكلم",
+					"file": "الأرقام تتكلم (Up-By-Muslem-مسلم).mp3"
+				},
+				{
+					"title": "الأقصى يحتضر والهيكل إكتمل",
+					"file": "الأقصى يحتضر والهيكل إكتمل (Up-By-Muslem-مسلم).mp3"
+				},
+				{
+					"title": "الأمر بالمعروف والنهي عن المنكر",
+					"file": "الأمر بالمعروف والنهي عن المنكر (Up-By-Muslem-مسلم).mp3"
+				},
+				{
+					"title": "الا تعفون ؟",
+					"file": "الا تعفون ؟ (Up-By-Muslem-مسلم).mp3"
+				},
+				{
+					"title": "البدار إلى دار الأبرار",
+					"file": "البدار إلى دار الأبرار (Up-By-Muslem-مسلم).mp3"
+				},
+				{
+					"title": "الذب عن عرض النبي",
+					"file": "الذب عن عرض النبي (Up-By-Muslem-مسلم).mp3"
+				},
+				{
+					"title": "الرشوة",
+					"file": "الرشوة (Up-By-Muslem-مسلم).mp3"
+				},
+				{
+					"title": "السحر",
+					"file": "السحر (Up-By-Muslem-مسلم).mp3"
+				},
+				{
+					"title": "الصراع ماضي إلى قيام الساعة",
+					"file": "الصراع ماضي إلى قيام الساعة (Up-By-Muslem-مسلم).mp3"
+				},
+				{
+					"title": "العائدون إلى الله",
+					"file": "العائدون إلى الله (Up-By-Muslem-مسلم).mp3"
+				},
+				{
+					"title": "العدل أساس الدين",
+					"file": "العدل أساس الدين (Up-By-Muslem-مسلم).mp3"
+				},
+				{
+					"title": "العزة في دين الله",
+					"file": "العزة في دين الله (Up-By-Muslem-مسلم).mp3"
+				},
+				{
+					"title": "الفرج .. بعد الشدة",
+					"file": "الفرج .. بعد الشدة (Up-By-Muslem-مسلم).mp3"
+				},
+				{
+					"title": "الموت المفاجئ",
+					"file": "الموت المفاجئ (Up-By-Muslem-مسلم).mp3"
+				}
+			]
+		},
+		{
+			"id": "40-hadith-nawawi",
+			"title": "40 Hadith Nawawi",
+			"titleAr": "الأربعون حديثا النووية",
+			"description": "شرح الأربعين حديثا النووية",
+			"source": "github",
+			"repo": "Sidimadtv/Qurani-Jannati",
+			"folder": "40-nawawiya",
+			"poster": "https://cdn.jsdelivr.net/gh/Sidimadtv/mydata-audio@main/pic/naw.jpg",
+			"episodes": [
+				{
+					"title": "Episode 1",
+					"file": "audio_1.mp3"
+				},
+				{
+					"title": "Episode 2",
+					"file": "audio_2.mp3"
+				},
+				{
+					"title": "Episode 3",
+					"file": "audio_3.mp3"
+				},
+				{
+					"title": "Episode 4",
+					"file": "audio_4.mp3"
+				},
+				{
+					"title": "Episode 5",
+					"file": "audio_5.mp3"
+				},
+				{
+					"title": "Episode 6",
+					"file": "audio_6.mp3"
+				},
+				{
+					"title": "Episode 7",
+					"file": "audio_7.mp3"
+				},
+				{
+					"title": "Episode 8",
+					"file": "audio_8.mp3"
+				},
+				{
+					"title": "Episode 9",
+					"file": "audio_9.mp3"
+				},
+				{
+					"title": "Episode 10",
+					"file": "audio_10.mp3"
+				},
+				{
+					"title": "Episode 11",
+					"file": "audio_11.mp3"
+				},
+				{
+					"title": "Episode 12",
+					"file": "audio_12.mp3"
+				},
+				{
+					"title": "Episode 13",
+					"file": "audio_13.mp3"
+				},
+				{
+					"title": "Episode 14",
+					"file": "audio_14.mp3"
+				},
+				{
+					"title": "Episode 15",
+					"file": "audio_15.mp3"
+				},
+				{
+					"title": "Episode 16",
+					"file": "audio_16.mp3"
+				},
+				{
+					"title": "Episode 17",
+					"file": "audio_17.mp3"
+				},
+				{
+					"title": "Episode 18",
+					"file": "audio_18.mp3"
+				},
+				{
+					"title": "Episode 19",
+					"file": "audio_19.mp3"
+				},
+				{
+					"title": "Episode 20",
+					"file": "audio_20.mp3"
+				},
+				{
+					"title": "Episode 21",
+					"file": "audio_21.mp3"
+				},
+				{
+					"title": "Episode 22",
+					"file": "audio_22.mp3"
+				},
+				{
+					"title": "Episode 23",
+					"file": "audio_23.mp3"
+				},
+				{
+					"title": "Episode 24",
+					"file": "audio_24.mp3"
+				},
+				{
+					"title": "Episode 25",
+					"file": "audio_25.mp3"
+				},
+				{
+					"title": "Episode 26",
+					"file": "audio_26.mp3"
+				},
+				{
+					"title": "Episode 27",
+					"file": "audio_27.mp3"
+				},
+				{
+					"title": "Episode 28",
+					"file": "audio_28.mp3"
+				},
+				{
+					"title": "Episode 29",
+					"file": "audio_29.mp3"
+				},
+				{
+					"title": "Episode 30",
+					"file": "audio_30.mp3"
+				},
+				{
+					"title": "Episode 31",
+					"file": "audio_31.mp3"
+				},
+				{
+					"title": "Episode 32",
+					"file": "audio_32.mp3"
+				},
+				{
+					"title": "Episode 33",
+					"file": "audio_33.mp3"
+				},
+				{
+					"title": "Episode 34",
+					"file": "audio_34.mp3"
+				},
+				{
+					"title": "Episode 35",
+					"file": "audio_35.mp3"
+				},
+				{
+					"title": "Episode 36",
+					"file": "audio_36.mp3"
+				},
+				{
+					"title": "Episode 37",
+					"file": "audio_37.mp3"
+				},
+				{
+					"title": "Episode 38",
+					"file": "audio_38.mp3"
+				},
+				{
+					"title": "Episode 39",
+					"file": "audio_39.mp3"
+				},
+				{
+					"title": "Episode 40",
+					"file": "audio_40.mp3"
+				},
+				{
+					"title": "Episode 41",
+					"file": "audio_41.mp3"
+				},
+				{
+					"title": "Episode 42",
+					"file": "audio_42.mp3"
+				}
+			]
+		},
+		{
+			"id": "yawm-al-mi3ad",
+			"title": "Yawm al Mi3ad",
+			"titleAr": "يوم المعاد",
+			"description": "خطبة يوم المعاد - الموت والقبر والحساب",
+			"source": "archive",
+			"identifier": "Sidimadtv-Yawmalmiaad",
+			"poster": "https://cdn.jsdelivr.net/gh/Sidimadtv/mydata-audio@main/pic/miad.jpg",
+			"episodes": [
+				{
+					"title": "الموت وسكراته",
+					"file": "01_2.mp3"
+				},
+				{
+					"title": "عذاب القبر ونعيمه",
+					"file": "02_2.mp3"
+				},
+				{
+					"title": "النفخ في الصور",
+					"file": "03.mp3"
+				},
+				{
+					"title": "الحساب والجزاء",
+					"file": "04.mp3"
+				},
+				{
+					"title": "صفة النار",
+					"file": "05.mp3"
+				},
+				{
+					"title": "صفة الجنة",
+					"file": "06.mp3"
+				}
+			]
+		},
+		{
+			"id": "rawae3-al-kisas",
+			"title": "Rawae3 al Kisas",
+			"titleAr": "رائعات القصص",
+			"description": "رائعات من القصص القرآني",
+			"source": "archive",
+			"identifier": "Sidimadtv-Rawaea",
+			"poster": "https://archive.org/services/img/Sidimadtv-Rawaea",
+			"episodes": [
+				{
+					"title": "الدرس الأول",
+					"file": "001.mp3"
+				},
+				{
+					"title": "الدرس الثاني",
+					"file": "002.mp3"
+				},
+				{
+					"title": "الدرس الثالث",
+					"file": "003.mp3"
+				},
+				{
+					"title": "الدرس الرابع",
+					"file": "004.mp3"
+				},
+				{
+					"title": "الدرس الخامس",
+					"file": "005.mp3"
+				},
+				{
+					"title": "الدرس السادس",
+					"file": "006.mp3"
+				},
+				{
+					"title": "الدرس السابع",
+					"file": "007.mp3"
+				},
+				{
+					"title": "الدرس الثامن",
+					"file": "008.mp3"
+				}
+			]
+		}
+	]
 }
